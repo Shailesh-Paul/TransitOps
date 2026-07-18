@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\logs\\.6635bba2741ebeb707d9af239009b661c03caca1-audit.json",
+    "files": [
+        {
+            "date": 1784334770269,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\logs\\database-2026-07-18.log",
+            "hash": "eb35e6c5ec77405bcf5afc2d0166b92be9f40a6fdbab821e4b679f2c7e4ee60e"
+        }
+    ],
+    "hashType": "sha256"
+}

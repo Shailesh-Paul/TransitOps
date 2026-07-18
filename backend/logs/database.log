@@ -1,0 +1,72 @@
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:15.014Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:50:15.020Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:50:15.021Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:50:15.022Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:50:15.022Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:50:15.023Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:50:15.024Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:50:15.024Z","timestamp":"2026-07-12T15:50:15.024Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:15.024Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:46.382Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:50:46.387Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:50:46.389Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:50:46.390Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:50:46.391Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:50:46.391Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:50:46.393Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:50:46.393Z","timestamp":"2026-07-12T15:50:46.394Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:46.394Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:57.032Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:50:57.036Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:50:57.036Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:50:57.037Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:50:57.037Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:50:57.038Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:50:57.038Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:50:57.038Z","timestamp":"2026-07-12T15:50:57.038Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:50:57.038Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:53:56.355Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:53:56.362Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:53:56.363Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:53:56.363Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:53:56.364Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:53:56.364Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:53:56.365Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:53:56.366Z","timestamp":"2026-07-12T15:53:56.366Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:53:56.366Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:08.682Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:54:08.687Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:54:08.688Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:54:08.689Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:54:08.689Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:54:08.689Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:54:08.690Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:54:08.690Z","timestamp":"2026-07-12T15:54:08.690Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:08.691Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:18.339Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:54:18.343Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:54:18.344Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:54:18.344Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:54:18.345Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:54:18.345Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:54:18.346Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:54:18.346Z","timestamp":"2026-07-12T15:54:18.346Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:18.346Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:27.208Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:54:27.214Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:54:27.215Z","timestamp":"2026-07-12T15:54:27.215Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:27.216Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:36.465Z"}
+{"level":"info","message":" MySQL Connected Successfully","timestamp":"2026-07-12T15:54:36.468Z"}
+{"level":"info","message":" Database : railway","timestamp":"2026-07-12T15:54:36.468Z"}
+{"level":"info","message":" Host     : roundhouse.proxy.rlwy.net","timestamp":"2026-07-12T15:54:36.468Z"}
+{"level":"info","message":" Port     : 48839","timestamp":"2026-07-12T15:54:36.468Z"}
+{"level":"info","message":" SSL      : Disabled","timestamp":"2026-07-12T15:54:36.469Z"}
+{"level":"info","message":" Connection : DATABASE_URL","timestamp":"2026-07-12T15:54:36.469Z"}
+{"level":"info","message":" Connected At : 2026-07-12T15:54:36.469Z","timestamp":"2026-07-12T15:54:36.469Z"}
+{"level":"info","message":"==================================","timestamp":"2026-07-12T15:54:36.470Z"}

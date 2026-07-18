@@ -1,0 +1,191 @@
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:12:10"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:12:10"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"6d9a251a-5d54-4937-a706-820aeb9d207e","timestamp":"2026-07-16 02:13:05"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"61dfbf95-f827-4ae0-97b6-8f9478f3a6ad","timestamp":"2026-07-16 02:13:05"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:23:43"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:23:43"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:31:31"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:31:31"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:31:41"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:31:41"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"522d0e18-1536-42d4-8a94-e017d7376b46","timestamp":"2026-07-16 02:32:57"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:34:06"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:34:06"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:37:46"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:37:46"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 02:38:36"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 02:38:36"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 11:57:37"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 11:57:37"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 12:00:56"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 12:00:56"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"bce2508a-8197-4eb2-987a-2b5ba92e6e7e","timestamp":"2026-07-16 12:26:59"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:44:45"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:44:45"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"9828b58e-33d7-4fcd-9f20-6dbde0a9167a","timestamp":"2026-07-16 13:44:56"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"ffcf99d4-47e7-4fbb-94b6-3705bd028867","timestamp":"2026-07-16 13:44:56"}
+{"errorName":"Error","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: Got timeout reading communication packets","requestId":"c64e7d64-3606-43d1-9ad5-bef51221f3eb","timestamp":"2026-07-16 13:45:31"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:47:51"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:47:51"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:51:50"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:51:50"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:58:06"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:58:06"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:58:56"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:58:56"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 13:59:13"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 13:59:13"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"2a040b20-4d36-4b51-90d5-75aa884e0c12","timestamp":"2026-07-16 14:07:22"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"3cc7e496-9d90-4789-9246-7dc37fafd12d","timestamp":"2026-07-16 14:07:22"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"0349c37a-338b-4ba7-825c-13510802d7de","timestamp":"2026-07-16 14:33:46"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 14:34:00"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 14:34:00"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 14:42:41"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 14:42:41"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 14:43:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 14:43:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:04:25"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:04:25"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:04:37"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:04:37"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:04:48"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:04:48"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:05:01"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:05:01"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:05:10"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:05:10"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:05:20"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:05:20"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:15:49"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:15:49"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"ec987979-c734-42fe-a1f8-b1a046cb933c","timestamp":"2026-07-16 15:16:16"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:17:20"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:17:20"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:21:38"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:21:38"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:22:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:22:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:33:40"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:33:40"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:34:09"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:34:09"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:34:30"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:34:30"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"f4a75fb5-58a4-4398-a68c-c85673955128","timestamp":"2026-07-16 15:35:31"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:50:34"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:50:34"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:50:44"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:50:44"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:50:55"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:50:55"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 15:51:12"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 15:51:12"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"c44fa3f0-b4ec-4263-9472-102493afb456","timestamp":"2026-07-16 16:00:30"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"0ad7ef77-e2ff-4d4c-ba16-c8a4a03f4c46","timestamp":"2026-07-16 16:00:30"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 16:15:29"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 16:15:29"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:09:38"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:09:38"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"c1202ab5-aeed-49b9-9125-cde4a7fc2286","timestamp":"2026-07-16 18:10:18"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"40bb6e9c-8526-439b-af3f-f76c1947346c","timestamp":"2026-07-16 18:10:18"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:29:54"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:29:54"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:30:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:30:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:30:49"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:30:49"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:31:40"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:31:40"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:32:06"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:32:06"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:32:28"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:32:28"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"d4bfac52-e1cb-42d7-bf72-764b424c31dc","timestamp":"2026-07-16 18:33:06"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"fc576546-b35a-4a88-b110-13e7a0b679f3","timestamp":"2026-07-16 18:33:06"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 18:56:08"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 18:56:08"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:33:44"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:33:44"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:34:13"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:34:13"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:35:03"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:35:03"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:35:18"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:35:18"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:35:35"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:35:35"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:35:48"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:35:48"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:36:00"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:36:00"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 19:36:31"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 19:36:31"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 20:24:14"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 20:24:14"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 20:24:55"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 20:24:55"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 20:25:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 20:25:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 20:25:25"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 20:25:25"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 20:25:36"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 20:25:36"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"6f2f77a6-7c3b-41ce-bd76-c103a7934337","timestamp":"2026-07-16 20:26:21"}
+{"errorName":"TokenExpiredError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt expired","requestId":"a06e8f93-ceb6-40b8-bbc6-336a61244124","timestamp":"2026-07-16 20:26:21"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:25:26"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:25:26"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:26:23"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:26:23"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:26:40"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:26:40"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:26:56"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:26:56"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:39:40"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:39:40"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:40:25"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:40:25"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:40:36"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:40:36"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:41:12"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:41:12"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:41:26"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:41:26"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:41:32"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:41:32"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:46:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:46:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:46:51"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:46:51"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:47:15"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:47:15"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 21:47:48"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 21:47:48"}
+{"errorName":"JsonWebTokenError","ip":"::1","label":"AUTH","level":"warn","message":"JWT Error: jwt malformed","requestId":"92e3101e-4159-40f6-b8b6-d4465e86154d","timestamp":"2026-07-16 21:47:59"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:11:11"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:11:11"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:11:27"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:11:27"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:11:36"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:11:36"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:11:57"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:11:57"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:12:54"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:12:54"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:13:20"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:13:20"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 22:13:35"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 22:13:35"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:32:39"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:32:39"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:32:48"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:32:48"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:58:38"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:58:38"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:58:54"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:58:54"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:59:09"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:59:09"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:59:19"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:59:19"}
+{"label":"STARTUP","level":"info","message":"TransitOps Backend Server Started on port 5000","timestamp":"2026-07-16 23:59:44"}
+{"label":"STARTUP","level":"info","message":"Railway MySQL Connected","timestamp":"2026-07-16 23:59:44"}

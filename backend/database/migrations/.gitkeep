@@ -1,0 +1,2 @@
+# Migrations Directory
+Place sequential SQL migration scripts here (e.g., `001_initial_schema.sql`, `002_add_payroll.sql`).

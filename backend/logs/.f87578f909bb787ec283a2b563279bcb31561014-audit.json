@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\.f87578f909bb787ec283a2b563279bcb31561014-audit.json",
+    "files": [
+        {
+            "date": 1783928097866,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\error-2026-07-13.log",
+            "hash": "5b4a7dc16bc61da14d8d1b430959780903e175271154629e2610f01e7698b9cd"
+        },
+        {
+            "date": 1783967487312,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\error-2026-07-14.log",
+            "hash": "fc1b2905a9e546768596f8928ee295ce8037bd99b6cdc783eccf826a7788d985"
+        },
+        {
+            "date": 1784054223336,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\error-2026-07-15.log",
+            "hash": "509b149b0818a439da8ec7b50f75f03ab1750e729d35aacf4097d8e11a0d382a"
+        },
+        {
+            "date": 1784148127626,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\error-2026-07-16.log",
+            "hash": "696f4c695ec4d46b294693977c5c8af284685700fb2d719615c8234aba2d9bbc"
+        },
+        {
+            "date": 1784226887498,
+            "name": "C:\\Users\\shail\\OneDrive\\Desktop\\OdooHackathon\\backend\\backend\\logs\\error-2026-07-17.log",
+            "hash": "463fd5bdceba8a31bfd30c3351458d13a4dd42642f9ab8a6246a2948de7aaaa1"
+        }
+    ],
+    "hashType": "sha256"
+}

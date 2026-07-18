@@ -1,0 +1,2 @@
+# Backups Directory
+Place database dump files (e.g., .sql exports) here. This directory should typically be added to .gitignore to avoid committing sensitive production data to version control.
